@@ -1,4 +1,4 @@
-timestamp,temperature,humidity,temp_category,hours_from_start,is_daytime,after_12h,is_weekend,rolling_temp_30m,humidity_diff_next,extreme_change
+timestamp,temperature,humidity,temp_category,hours_from_start,is_daytime,after_12h,is_weekend,rolling_average,difference_humidity,extreme_change
 2025-10-30 08:00:00,22.99,46.09,medium,0.0,True,False,False,22.99,1.6700000000000017,False
 2025-10-30 08:05:00,22.47,44.42,medium,0.08333333333333333,True,False,False,22.729999999999997,-4.939999999999998,False
 2025-10-30 08:10:00,22.86,49.36,medium,0.16666666666666666,True,False,False,22.77333333333333,2.039999999999999,False
